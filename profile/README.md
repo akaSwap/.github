@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://akaswap.com/">
-    <img src="https://akaswap.com/api/logo/akaS_web_Logo_XL_light.svg" alt="akaSwap logo" width="250" height="165">
+    <img src="https://akaswap.com/logo/og-image.jpg" alt="akaSwap logo" width="250" height="165">
   </a>
 </p>
 <h3 align="center">akaSwap</h3>
